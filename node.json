@@ -1,0 +1,3 @@
+{
+  "run_list": [ "recipe[challenge]", "recipe[apt]", "recipe[unattended-upgrades]" ]
+}
