@@ -1,0 +1,4 @@
+name: "Session Hijacking"
+description: |
+  Bob has been making a new admin system for the site that has now gone live. We managed to get this capture while he was developing.
+flag: "MCA-12C7A3E4"

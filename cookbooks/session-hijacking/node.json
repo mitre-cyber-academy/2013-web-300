@@ -1,0 +1,3 @@
+{
+  "run_list": [ "recipe[apt]", "recipe[session-hijacking]", "recipe[unattended-upgrades]" ]
+}
